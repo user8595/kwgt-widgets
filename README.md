@@ -4,6 +4,8 @@ A list of widgets i made on KWGT.
 
 ## orangeish
 
+<img src="./img/preview.jpg" alt="Layout example" width="512">
+
 A grid layout widget, with orange as the main colorscheme.
 
 ### Clock
@@ -37,6 +39,8 @@ A grid layout widget, with orange as the main colorscheme.
 [Download widget](./orangeish/Weather_orangeish.kwgt)
 
 ## sides
+
+<img src="./img/preview-1.jpg" alt="Layout example" width="512">
 
 A vertical widget minipack that is meant to be used at the sides of the screen.
 
