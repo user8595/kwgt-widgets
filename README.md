@@ -30,12 +30,6 @@ A grid layout widget, with orange as the main colorscheme.
 
 [Download widget](./orangeish/Music_orangeish.kwgt)
 
-### Player without Play/Pause
-
-![Progressbar only](./img/orangeish/musicv2.jpg)
-
-[Download widget](./orangeish/Music___orangeish.kwgt)
-
 ### Weather
 
 ![Weather](./img/orangeish/weather.jpg)
@@ -73,5 +67,11 @@ A vertical widget minipack that is meant to be used at the sides of the screen.
 ![Searchbar](./img/other/search.jpg)
 
 [Download widget](./other/Searchbar.kwgt)
+
+### Player without Play/Pause
+
+![Progressbar only](./img/other/musicv2.jpg)
+
+[Download widget](./other/Music.kwgt)
 
 ---
