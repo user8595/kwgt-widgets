@@ -8,31 +8,31 @@ A grid layout widget, with orange as the main colorscheme.
 
 ### Clock
 
-![Clock](./img/orangeish/clock.jpg) 
+<img src="./img/orangeish/clock.jpg" alt="Clock" width="200">
 
 [Download widget](./orangeish/Clock_orangeish.kwgt)
 
 ### Date
 
-![Date](./img/orangeish/date.jpg)
+<img src="./img/orangeish/date.jpg" alt="Date" width="200">
 
 [Download widget](./orangeish/Date_orangeish.kwgt)
 
 ### Storage
 
-![Storage](./img/orangeish/storage.jpg)
+<img src="./img/orangeish/storage.jpg" alt="Storage" width="200">
 
 [Download widget](./orangeish/Memory_Info_orangeish.kwgt)
 
 ### Music Player
 
-![Player](./img/orangeish/musicv1.jpg)
+<img src="./img/orangeish/musicv1.jpg" alt="Player" width="200">
 
 [Download widget](./orangeish/Music_orangeish.kwgt)
 
 ### Weather
 
-![Weather](./img/orangeish/weather.jpg)
+<img src="./img/orangeish/weather.jpg" alt="Weather" width="200">
 
 [Download widget](./orangeish/Weather_orangeish.kwgt)
 
@@ -42,21 +42,21 @@ A vertical widget minipack that is meant to be used at the sides of the screen.
 
 ### Clock
 
-![Clock](./img/sides/clock.jpg)
+<img src="./img/sides/clock.jpg" alt="Clock" width="100">
 
-[Download widget](./sides/Clock_sides.kwgtt)
+[Download widget](./sides/Clock_sides.kwgt)
 
-![Clock](./img/sides-1/clock.jpg)
+<img src="./img/sides-1/clock.jpg" alt="Clock" width="100">
 
 [Download widget](./sides-1/Clock___sides.kwgt)
 
 ### Weather
 
-![Weather](./img/sides/weather.jpg)
+<img src="./img/sides/weather.jpg" alt="Weather" width="100">
 
 [Download widget](./sides/Weather_sides.kwgt)
 
-![Weather](./img/sides-1/weather.jpg)
+<img src="./img/sides-1/weather.jpg" alt="Weather" width="100">
 
 [Download widget](./sides-1/Weather___sides.kwgt)
 
@@ -64,13 +64,13 @@ A vertical widget minipack that is meant to be used at the sides of the screen.
 
 ### Searchbar
 
-![Searchbar](./img/other/search.jpg)
+<img src="./img/other/search.jpg" alt="Searchbar" width="200">
 
 [Download widget](./other/Searchbar.kwgt)
 
 ### Player without Play/Pause
 
-![Progressbar only](./img/other/musicv2.jpg)
+<img src="./img/other/musicv2.jpg" alt="Progressbar only" width="200">
 
 [Download widget](./other/Music.kwgt)
 
