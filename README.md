@@ -2,7 +2,7 @@
 
 A list of widgets i made on KWGT.
 
-## NOTE
+## IMPORTANT NOTE
 
 All widgets listed here are dependant on Material You colors, so i can't guarantee it might work below Android 12.
 
@@ -81,5 +81,3 @@ A vertical widget minipack that is meant to be used at the sides of the screen.
 <img src="./img/other/musicv2.jpg" alt="Progressbar only" width="200">
 
 [Download widget](./other/Music.kwgt)
-
----
