@@ -2,6 +2,10 @@
 
 A list of widgets i made on KWGT.
 
+## NOTE
+
+All widgets listed here are dependant on Material You colors, so i can't guarantee it might work below Android 12.
+
 ## orangeish
 
 <img src="./img/preview.jpg" alt="Layout example" width="512">
