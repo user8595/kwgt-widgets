@@ -84,6 +84,6 @@ A vertical widget minipack that is meant to be used at the sides of the screen.
 
 ### Pie Clock
 
-<img src="./img/other/pieclock.jpg" alt="Pie Clock" width="100">
+<img src="./img/other/pieclock.jpg" alt="Pie Clock" width="200">
 
 [Download widget](./other/Pie_Clock.kwgt)
