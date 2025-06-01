@@ -81,3 +81,9 @@ A vertical widget minipack that is meant to be used at the sides of the screen.
 <img src="./img/other/musicv2.jpg" alt="Progressbar only" width="200">
 
 [Download widget](./other/Music.kwgt)
+
+### Pie Clock
+
+<img src="./img/other/pieclock.jpg" alt="Pie Clock" width="100">
+
+[Download widget](./other/Pie_Clock.kwgt)
